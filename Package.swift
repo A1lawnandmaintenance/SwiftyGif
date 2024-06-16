@@ -11,7 +11,7 @@ let package = Package(
         .library(name: "SwiftyGif", targets: ["SwiftyGif"]),
         .library(name: "SwiftyGif-Dynamic", type: .dynamic, targets: ["SwiftyGif"]),
     ],
-    dependencies: [],
+    dependencies: [],https://github.com/facebook/facebook-ios-sdk
     targets: [
         .target(
             name: "SwiftyGif",
