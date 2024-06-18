@@ -37,6 +37,7 @@
 	<string></string>
 </dict>
 </plist>
+
 <key>LSApplicationQueriesSchemes</key>
 <array>
   <string>fbapi</string>
